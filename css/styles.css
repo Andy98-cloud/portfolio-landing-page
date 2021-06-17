@@ -1,0 +1,17 @@
+h1 {
+ color: pink;
+}
+h1 {
+ color: pink;
+ text-align: center;
+}   
+h2 {
+ color: green;
+ text-align: center;
+ font-style: italic; 
+} 
+p{
+ font-family: sans-serif;
+}
+
+
